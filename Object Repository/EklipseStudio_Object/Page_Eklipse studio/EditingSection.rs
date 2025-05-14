@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EditingSection</name>
+   <tag></tag>
+   <elementGuidId>7ac52376-c90f-4eda-b5ec-536b74ca8c5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiBox-root.css-1j5tuw8</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/main/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7e0efdb-aebb-4f24-8854-6454dc935eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiBox-root css-1j5tuw8</value>
+      <webElementGuid>73703657-4cdb-47a2-9a8b-83eaf77369f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Original ClipPreviewgameFeedfaceCamADD LAYERSSave Template00:0000:3000:00.00 / 00:30.00Change ClipContinue</value>
+      <webElementGuid>c679755a-cb73-46c0-8c45-fa2e31b02020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;MuiBox-root css-20pg7w&quot;]/main[@class=&quot;MuiBox-root css-1azpmo8&quot;]/div[@class=&quot;MuiBox-root css-1j5tuw8&quot;]</value>
+      <webElementGuid>3474a1ec-78f1-468a-a26c-6a0099f93ece</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/main/div</value>
+      <webElementGuid>46f41f09-d662-424d-9f6e-06647924460b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Template'])[2]/following::div[1]</value>
+      <webElementGuid>46fd302a-00e4-4b03-8181-cfaf68c72f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Template'])[1]/following::div[1]</value>
+      <webElementGuid>6208b73b-b04d-467e-8441-02f94479fb97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div</value>
+      <webElementGuid>be5388b8-6a8b-4222-88f2-c53cfd474a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Original ClipPreviewgameFeedfaceCamADD LAYERSSave Template00:0000:3000:00.00 / 00:30.00Change ClipContinue' or . = 'Original ClipPreviewgameFeedfaceCamADD LAYERSSave Template00:0000:3000:00.00 / 00:30.00Change ClipContinue')]</value>
+      <webElementGuid>2b83c302-17df-4d29-88d2-9b5fd144ae55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

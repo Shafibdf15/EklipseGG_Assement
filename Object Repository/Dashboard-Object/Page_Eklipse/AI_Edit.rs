@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AI_Edit</name>
+   <tag></tag>
+   <elementGuidId>3a25c61c-9d93-42bf-b721-87dd525dc9ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.entry-point-item.ai-edit-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>83f4ec61-8df6-4dea-9707-19ffe57075fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entry-point-item ai-edit-item</value>
+      <webElementGuid>ebc0b114-53b3-4561-baa4-a9e6d1fa70c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d17f88db-4357-41c1-a9b6-f3aa3b044b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>e0040681-0788-461d-a0e2-5be8af1586c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>[object Object] - Edit your clips using AI!</value>
+      <webElementGuid>f316d316-50a8-43d9-91e1-7a640fe3cefa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AI Edit BetaEdit your clips using AI!</value>
+      <webElementGuid>6d775486-cca0-4cd5-9cb2-6bfea487c197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard p-0&quot;]/div[@class=&quot;ek-widget-wrapper d-flex&quot;]/div[@class=&quot;ek-dashboard__home ek-content-bar&quot;]/div[@class=&quot;entry-point-panel mt-2 mb-4 pb-2&quot;]/div[@class=&quot;entry-point-item ai-edit-item&quot;]</value>
+      <webElementGuid>7d754459-4a78-46d5-a252-351ed41f5800</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>5d4cea05-0457-4e2b-b5c0-8106ce50b7aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Streams'])[1]/following::div[1]</value>
+      <webElementGuid>b29aa88c-863a-4e2d-bf1b-bf74ae10067b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[3]/following::div[8]</value>
+      <webElementGuid>859c1f4c-6f77-499b-b189-4d83486dc137</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>72a48ee8-fca1-4d03-93b8-b6f1b11ab29d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AI Edit BetaEdit your clips using AI!' or . = 'AI Edit BetaEdit your clips using AI!')]</value>
+      <webElementGuid>feae546b-ebf9-452b-8d7d-ff3bf8e48b0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

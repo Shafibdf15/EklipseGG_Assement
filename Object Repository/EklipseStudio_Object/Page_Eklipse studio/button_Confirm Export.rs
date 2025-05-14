@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Confirm Export</name>
+   <tag></tag>
+   <elementGuidId>3041efd3-45f6-442e-87be-13a3a02be2cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedEklipse.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorEklipse.MuiButton-root.MuiButton-contained.MuiButton-containedEklipse.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorEklipse.css-1rt7tlg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[83]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>99321451-ed13-4776-a027-4a60369e5e3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedEklipse MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorEklipse MuiButton-root MuiButton-contained MuiButton-containedEklipse MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorEklipse css-1rt7tlg</value>
+      <webElementGuid>98243ab0-adf8-4b8d-8e5d-18a07db7ede5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>03a3216b-856e-4ab3-8d74-9dbff72975e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3944c69f-e485-4486-9196-54e360949290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Confirm Export</value>
+      <webElementGuid>5b809a11-4f65-4925-a103-d24af5274534</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-e3a0f3&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXs css-h3fct8&quot;]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing css-mem132&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedEklipse MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorEklipse MuiButton-root MuiButton-contained MuiButton-containedEklipse MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorEklipse css-1rt7tlg&quot;]</value>
+      <webElementGuid>2779ac1d-d10b-4c99-ac2d-764c69b78993</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[83]</value>
+      <webElementGuid>a898100f-8dd3-489c-9391-dde3a74e32e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>f80349bd-c747-4ba7-8dc3-228b28375fcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure you want to export?'])[1]/following::button[2]</value>
+      <webElementGuid>4eefcfcd-a394-4664-a338-32e418c370ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Confirm Export']/parent::*</value>
+      <webElementGuid>709b8a4f-8a1f-40b7-bd4a-5a83358cfa01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button[2]</value>
+      <webElementGuid>8613891f-afc7-4db8-bf59-5323ffbc6165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Confirm Export' or . = 'Confirm Export')]</value>
+      <webElementGuid>c1f2331f-685a-4a4f-85d2-694e2fc9ee6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

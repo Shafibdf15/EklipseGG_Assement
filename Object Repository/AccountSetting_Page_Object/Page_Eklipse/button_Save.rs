@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>6f82048d-074a-404b-9e75-1a63f4c36f83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-dkrFOg.bpDwEs > div.ek-game-setting-detail > div.text-right > button.mt-4.ek-primary-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[63]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>20b8293e-6461-4ba5-9e78-4f62a7954baf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-4 ek-primary-button</value>
+      <webElementGuid>af482cdf-64f3-4150-9eb6-bac5f7616293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5c61b3bc-4f0e-4d79-861f-88b7197b27a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>91155b19-c99a-4c8e-8d96-27c21cd4d51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-account-setting&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs&quot;]/div[@class=&quot;ek-game-setting&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs&quot;]/div[@class=&quot;ek-game-setting-detail&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;mt-4 ek-primary-button&quot;]</value>
+      <webElementGuid>92731236-aedf-40f0-9284-ef8d50a0b3d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[63]</value>
+      <webElementGuid>2f9903ab-1791-40ff-b96c-65b94875f666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div[4]/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>25f2d9b8-4b6b-4577-ae50-c189c36581b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose the region of your country'])[2]/following::button[1]</value>
+      <webElementGuid>c74a72e1-0443-4ecd-ae71-28978a2f3ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fill in with your tagline'])[1]/following::button[1]</value>
+      <webElementGuid>b2633ccd-affd-4c99-9375-9526e0e94021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/preceding::button[1]</value>
+      <webElementGuid>775fb744-c2ee-4da7-91de-c969bb25d22b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy'])[1]/preceding::button[1]</value>
+      <webElementGuid>c58ed2e5-747b-4ed2-8a11-537093e32f8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div[2]/button</value>
+      <webElementGuid>abe3c20f-67cd-49f7-97fb-3d232700c9f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>fcee1b7f-4ca4-4d62-9f43-04d35b93c9ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

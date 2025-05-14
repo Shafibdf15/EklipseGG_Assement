@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Features</name>
+   <tag></tag>
+   <elementGuidId>c9605cf0-fbda-4a82-87ba-2a637adaf8ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaming Stream Highlights'])[1]/preceding::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>991f8e0c-c898-4eb4-9a7f-7f351079e9c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Features</value>
+      <webElementGuid>91c07333-0cdc-4e5f-8f34-9e5bfa799aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;home page-template-default page page-id-13271 wp-custom-logo ehf-template-eklipsegg ehf-stylesheet-eklipsegg elementor-default elementor-kit-9 elementor-page elementor-page-13271 mysticky-welcomebar-apper e--ua-blink e--ua-chrome e--ua-webkit&quot;]/header[@class=&quot;header fixed no-fixed&quot;]/div[@class=&quot;header-main&quot;]/div[@class=&quot;header-main__container&quot;]/div[@class=&quot;header-main__col header-main__col--center&quot;]/nav[@class=&quot;header-main__menu&quot;]/ul[@class=&quot;primary-menu&quot;]/li[@class=&quot;nav_item menu-item-depth-0 has-child menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children megamenu&quot;]/a[@class=&quot;nav-link&quot;]/span[1]</value>
+      <webElementGuid>2da071d8-85fe-4ac2-ae9f-0b8eae4ea6ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaming Stream Highlights'])[1]/preceding::span[1]</value>
+      <webElementGuid>f767ca6a-3347-43ff-9715-b7c9c69a05b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Features']/parent::*</value>
+      <webElementGuid>0fdbfe21-304c-439c-8782-bf328cb5eba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>3d3f2424-2d2a-4ab8-a997-ed4e394f0b00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Features' or . = 'Features')]</value>
+      <webElementGuid>7d529dd7-6e5f-4404-aaf7-f6e1eb0cba90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

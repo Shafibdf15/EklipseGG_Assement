@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BrowseClips_for_AIEdit</name>
+   <tag></tag>
+   <elementGuidId>18fe9442-13bc-4d25-964a-a4262ddf198b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ai-edit-modal > div.modal-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ai-edit-modal']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>30ab0835-af99-4c68-81bc-be69e382b083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-content</value>
+      <webElementGuid>01aa78ab-9aca-4d4c-9f1a-43ade2eb8e69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse Clips for AI EditEdit your clips using AIAll HighlightsStream VideosUploadSort byNEWEST TO OLDESTOLDEST TO NEWESTNo Highlights FoundHighlights will appear here after you've submitted your stream/video to our AI.Submit stream or video00:00 / 03:00 SelectedConfirm</value>
+      <webElementGuid>cf827a77-5779-4bae-967e-b212270be206</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ai-edit-modal&quot;)/div[@class=&quot;modal-content&quot;]</value>
+      <webElementGuid>4a0ce4d2-3862-4ec2-8b75-a1b9036b9d67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ai-edit-modal']/div</value>
+      <webElementGuid>4ce8231a-49e7-45b4-8c1a-77111ba6dc27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get AI Edit'])[1]/following::div[4]</value>
+      <webElementGuid>8be60da1-9d77-4814-9381-200156fcfd2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[4]</value>
+      <webElementGuid>0a15b3a8-6976-4392-8118-dc2354bb34ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div</value>
+      <webElementGuid>8f1a934f-8ab3-494f-af42-f22301e31999</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Browse Clips for AI EditEdit your clips using AIAll HighlightsStream VideosUploadSort byNEWEST TO OLDESTOLDEST TO NEWESTNo Highlights FoundHighlights will appear here after you&quot; , &quot;'&quot; , &quot;ve submitted your stream/video to our AI.Submit stream or video00:00 / 03:00 SelectedConfirm&quot;) or . = concat(&quot;Browse Clips for AI EditEdit your clips using AIAll HighlightsStream VideosUploadSort byNEWEST TO OLDESTOLDEST TO NEWESTNo Highlights FoundHighlights will appear here after you&quot; , &quot;'&quot; , &quot;ve submitted your stream/video to our AI.Submit stream or video00:00 / 03:00 SelectedConfirm&quot;))]</value>
+      <webElementGuid>44d59f75-9f2f-45fd-a34c-bea7407cb36f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

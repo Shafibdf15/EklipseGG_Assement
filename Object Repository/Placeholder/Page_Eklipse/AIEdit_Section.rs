@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AIEdit_Section</name>
+   <tag></tag>
+   <elementGuidId>307229b6-5926-4ee9-b893-7a9d648ab3cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container-children-dashboard</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3204efef-c7ab-4596-948b-1d3420f133d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container-children-dashboard  </value>
+      <webElementGuid>d146865e-51f9-4c73-a3f6-8f4b0de24111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AI EditTry AI Edit on DiscordCreate AI EditSort bySort by:NEWEST TO OLDESTOLDEST TO NEWESTNEWEST TO OLDESTOLDEST TO NEWESTALLIN PROGRESSCONVERTEDALLIN PROGRESSCONVERTEDEdit your Clip with AI Edit!BetaInstantly add memes, auto-captions, video &amp; sound effects that fit your clip perfectly!Start AI EditVideo Player is loading.Play VideoPauseUnmuteCurrent Time 0:07/Duration 0:15Loaded: 100.00%0:07Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:08 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.You also can try using these sample clips Previous+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad+SelectPreview00:59bb+SelectPreview01:00Reid and His Kitten+SelectPreview00:46OG Fortnite is SO back🤯+SelectPreview00:30sickkkk+SelectPreview00:38MYTHIC GOLDFISH+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad+SelectPreview00:59bb+SelectPreview01:00Reid and His Kitten+SelectPreview00:46OG Fortnite is SO back🤯+SelectPreview00:30sickkkk+SelectPreview00:38MYTHIC GOLDFISH+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad Next</value>
+      <webElementGuid>7cc08721-bf74-4ca2-8ce6-ce6fc8c2c0db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]</value>
+      <webElementGuid>87b88423-3c05-48f3-8831-575f2bd5c149</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div</value>
+      <webElementGuid>f6596b56-de36-4662-a772-12cce8d60746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[3]/following::div[1]</value>
+      <webElementGuid>b4f562f9-0682-4315-becc-174b5dc37c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[3]/following::div[2]</value>
+      <webElementGuid>ac8aec58-bca4-4af1-9b7e-60db33067f74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div</value>
+      <webElementGuid>0d579fac-63c2-4bd9-b8c8-0b54cd9297ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'AI EditTry AI Edit on DiscordCreate AI EditSort bySort by:NEWEST TO OLDESTOLDEST TO NEWESTNEWEST TO OLDESTOLDEST TO NEWESTALLIN PROGRESSCONVERTEDALLIN PROGRESSCONVERTEDEdit your Clip with AI Edit!BetaInstantly add memes, auto-captions, video &amp; sound effects that fit your clip perfectly!Start AI EditVideo Player is loading.Play VideoPauseUnmuteCurrent Time 0:07/Duration 0:15Loaded: 100.00%0:07Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:08 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.You also can try using these sample clips Previous+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad+SelectPreview00:59bb+SelectPreview01:00Reid and His Kitten+SelectPreview00:46OG Fortnite is SO back🤯+SelectPreview00:30sickkkk+SelectPreview00:38MYTHIC GOLDFISH+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad+SelectPreview00:59bb+SelectPreview01:00Reid and His Kitten+SelectPreview00:46OG Fortnite is SO back🤯+SelectPreview00:30sickkkk+SelectPreview00:38MYTHIC GOLDFISH+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad Next' or . = 'AI EditTry AI Edit on DiscordCreate AI EditSort bySort by:NEWEST TO OLDESTOLDEST TO NEWESTNEWEST TO OLDESTOLDEST TO NEWESTALLIN PROGRESSCONVERTEDALLIN PROGRESSCONVERTEDEdit your Clip with AI Edit!BetaInstantly add memes, auto-captions, video &amp; sound effects that fit your clip perfectly!Start AI EditVideo Player is loading.Play VideoPauseUnmuteCurrent Time 0:07/Duration 0:15Loaded: 100.00%0:07Stream Type LIVESeek to live, currently behind liveLIVERemaining Time -0:08 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio TrackPicture-in-PictureFullscreenThis is a modal window.Beginning of dialog window. Escape will cancel and close the window.TextColorWhiteBlackRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentBackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyOpaqueSemi-TransparentTransparentWindowColorBlackWhiteRedGreenBlueYellowMagentaCyanTransparencyTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDropshadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDoneClose Modal DialogEnd of dialog window.You also can try using these sample clips Previous+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad+SelectPreview00:59bb+SelectPreview01:00Reid and His Kitten+SelectPreview00:46OG Fortnite is SO back🤯+SelectPreview00:30sickkkk+SelectPreview00:38MYTHIC GOLDFISH+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad+SelectPreview00:59bb+SelectPreview01:00Reid and His Kitten+SelectPreview00:46OG Fortnite is SO back🤯+SelectPreview00:30sickkkk+SelectPreview00:38MYTHIC GOLDFISH+SelectPreview00:30SHEESH ACE+SelectPreview00:49fairypop princess ace with Evori Dreamwings buff +SelectPreview01:00W+SelectPreview01:00bad Next')]</value>
+      <webElementGuid>a2d8731c-3312-45dc-b4a1-19ebbf575ad8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

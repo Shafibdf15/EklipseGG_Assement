@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Convert to TikTok features</description>
+   <name>TC-06</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b031d7e3-e3fb-4447-b958-aa733ae3196c</testCaseGuid>
+</TestCaseEntity>

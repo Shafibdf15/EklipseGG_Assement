@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Account_Setting</description>
+   <name>TC-04</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d94e7de3-ba3e-41f5-9ab5-fe416fc725ee</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_url</name>
+   <tag></tag>
+   <elementGuidId>617bdeee-95c3-483d-b515-3da4b4d11f83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='t']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.video-input-container.d-flex.justify-content-center.align-items-center.my-2.w-100.w-md-75 > input[type=&quot;url&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7b4cad2c-b71f-445a-96d3-a6e0d790765e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>url</value>
+      <webElementGuid>e988d0f7-27ab-48de-abef-7b2b91e4a335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Paste Twitch or Kick clips URL here</value>
+      <webElementGuid>a76f8a8f-d39b-4e2d-b429-43a80b726665</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>t</value>
+      <webElementGuid>cee8263b-f9c8-4f53-9bdb-999b77f6ca8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;focus-outline-hidden&quot;]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade ai-edit-modal-container current-step-2 modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;ai-edit-modal-container&quot;]/div[1]/div[@class=&quot;choose-ai-edit-panel&quot;]/div[2]/div[1]/div[@class=&quot;video-input-container d-flex justify-content-center align-items-center my-2 w-100 w-md-75&quot;]/input[1]</value>
+      <webElementGuid>39cd212c-2579-4bdb-bb4f-bc2babd30606</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='t']</value>
+      <webElementGuid>63ff35fb-5ee0-4429-b8fb-6e306e9d31b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/input</value>
+      <webElementGuid>915affb6-066f-4dad-8bbf-2ed7fcece26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'url' and @placeholder = 'Paste Twitch or Kick clips URL here']</value>
+      <webElementGuid>c56d652d-f576-4118-b8ea-b7f449743675</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

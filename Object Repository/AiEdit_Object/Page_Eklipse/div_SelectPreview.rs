@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SelectPreview</name>
+   <tag></tag>
+   <elementGuidId>2ed7b63e-8a29-426f-807c-51650e4b9a3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='https://dxcikqk9k66cl.cloudfront.net/3995337803_2024-07-15_12:27:55.mp4']/div/div)[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d9daa050-11f1-4c07-8105-dbf7fbc20622</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-container flex-column w-100 align-items-center</value>
+      <webElementGuid>6f191d14-cfea-433d-9509-dd45f4dc0fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+SelectPreview</value>
+      <webElementGuid>1e60bee1-1417-43f7-b489-9ffb45536dc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;focus-outline-hidden&quot;]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade ai-edit-modal-container current-step-2 modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;ai-edit-modal-container&quot;]/div[1]/div[@class=&quot;choose-ai-edit-panel&quot;]/div[2]/div[@class=&quot;ek-demo-clips-ai-edit&quot;]/div[@class=&quot;clip-slider-container&quot;]/div[@class=&quot;slick-slider clip-slider slick-initialized&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-current&quot;]/div[1]/div[@id=&quot;https://dxcikqk9k66cl.cloudfront.net/3995337803_2024-07-15_12:27:55.mp4&quot;]/div[@class=&quot;video-container d-flex justify-content-center align-items-center&quot;]/div[@class=&quot;btn-container flex-column w-100 align-items-center&quot;]</value>
+      <webElementGuid>e02f5511-f9f0-4140-a2df-f3ab708d168f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='https://dxcikqk9k66cl.cloudfront.net/3995337803_2024-07-15_12:27:55.mp4']/div/div)[2]</value>
+      <webElementGuid>4b6262a2-eb28-4fee-89ab-072a9a8bfabd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHEESH ACE'])[1]/following::div[5]</value>
+      <webElementGuid>2c5ddfea-fcb1-4410-a2e1-2bec51c7223a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Preview'])[9]/following::div[6]</value>
+      <webElementGuid>97d24dd0-692e-4b48-ac89-38815a141ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div/div</value>
+      <webElementGuid>2faeae91-8be2-4892-88f0-6591e6a22614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+SelectPreview' or . = '+SelectPreview')]</value>
+      <webElementGuid>324acf03-42ca-4839-b684-366f49637700</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

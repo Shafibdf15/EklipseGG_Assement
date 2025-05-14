@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Landing Page</description>
+   <name>TC-01</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24749aeb-e0a6-4d60-b25c-d9002e62c2b0</testCaseGuid>
+</TestCaseEntity>

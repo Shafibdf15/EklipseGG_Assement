@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TryAI_Dicsord</name>
+   <tag></tag>
+   <elementGuidId>407af359-094e-4ac9-aa73-8b944c916e95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Try AI Edit on Discord' or . = 'Try AI Edit on Discord')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn-discord.d-flex.align-items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7d46a988-ed66-438c-a38f-8e9ddcabdfef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1a5bd240-d7d1-470a-94ac-8329913ce8c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>75f4fea2-33b3-4a69-a3d1-b4ab59e3cc90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-discord d-flex align-items-center</value>
+      <webElementGuid>27f79773-baac-4bd1-b3bd-356146bf31bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Try AI Edit on Discord</value>
+      <webElementGuid>b5b92b1f-6959-4c1e-bf1d-eaf32f37b873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-streams ek-ai-edit&quot;]/div[@class=&quot;page-description d-flex mb-2&quot;]/div[@class=&quot;d-flex btn-container&quot;]/div[@class=&quot;btn-discord d-flex align-items-center&quot;]</value>
+      <webElementGuid>12e8d2f9-570d-4727-82e2-4db78b8d98ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>b1438b0a-f78d-4932-bc91-71f380fd39bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Edit'])[4]/following::div[2]</value>
+      <webElementGuid>72b92882-9692-470d-b3c5-8bf6275f063e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[3]/following::div[6]</value>
+      <webElementGuid>46f01723-ed78-4ff4-aedf-7e3c6852f5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create AI Edit'])[1]/preceding::div[1]</value>
+      <webElementGuid>ff0f1a9a-273a-4b43-846e-5576974b09b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by'])[1]/preceding::div[2]</value>
+      <webElementGuid>4d7cb28c-842b-4712-9939-a83606ca19e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Try AI Edit on Discord']/parent::*</value>
+      <webElementGuid>69931285-df79-4569-92d1-72f9243e6c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>46cce996-1c24-4d10-930b-6b4c8810fd28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Try AI Edit on Discord' or . = 'Try AI Edit on Discord')]</value>
+      <webElementGuid>daf3251a-52f3-45fe-bfb1-28ac23ce03c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

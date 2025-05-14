@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Streams Feature</description>
+   <name>TC-05</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ffefd98-9ee4-4831-bfaf-c08a9e17b21f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Discovery</name>
+   <tag></tag>
+   <elementGuidId>f3cc6c64-6b04-40a3-bc4c-78ad1b1f18be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW!'])[1]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f8ec68c-cb2a-403f-8b41-ba7a50832e20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Discovery</value>
+      <webElementGuid>584ac654-e8c8-4fe0-b849-2b2d1da39e48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;home page-template-default page page-id-13271 wp-custom-logo ehf-template-eklipsegg ehf-stylesheet-eklipsegg elementor-default elementor-kit-9 elementor-page elementor-page-13271 mysticky-welcomebar-apper e--ua-blink e--ua-chrome e--ua-webkit&quot;]/header[@class=&quot;header fixed no-fixed&quot;]/div[@class=&quot;header-main&quot;]/div[@class=&quot;header-main__container&quot;]/div[@class=&quot;header-main__col header-main__col--center&quot;]/nav[@class=&quot;header-main__menu&quot;]/ul[@class=&quot;primary-menu&quot;]/li[@class=&quot;nav_item menu-item-depth-0 has-child menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children megamenu&quot;]/a[@class=&quot;nav-link&quot;]/span[1]</value>
+      <webElementGuid>ed88efe4-483e-4986-a992-9a5ea223e3c9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW!'])[1]/following::span[2]</value>
+      <webElementGuid>f56f5aca-4302-48fd-99dc-8281b2694576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learning Center'])[1]/preceding::span[1]</value>
+      <webElementGuid>c5aff740-d863-4b8e-b6a2-6f0d679899ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Learning Center'])[1]/preceding::span[1]</value>
+      <webElementGuid>63271681-3e14-4e63-bfdb-7ba7d7f100a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Discovery']/parent::*</value>
+      <webElementGuid>1f3944c8-5894-4c9f-8f02-c762d22d2ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>93bcd350-926a-4b58-9fc2-569ed0531290</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Discovery' or . = 'Discovery')]</value>
+      <webElementGuid>96b82135-733b-4b96-b0d9-58b976219f40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

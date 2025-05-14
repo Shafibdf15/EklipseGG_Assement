@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Dashboard</description>
+   <name>TC-03</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8f03409b-25f0-4f03-a349-5e66da26e4d6</testCaseGuid>
+</TestCaseEntity>

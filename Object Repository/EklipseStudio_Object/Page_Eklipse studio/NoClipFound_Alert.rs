@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NoClipFound_Alert</name>
+   <tag></tag>
+   <elementGuidId>c85cc2cc-7e66-46c2-a603-dc88aa0e7c09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthXs.MuiDialog-paperFullWidth.css-si5qco</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = concat(&quot;No Clip FoundThe link you entered is either invalid or we couldn&quot; , &quot;'&quot; , &quot;t find any valid clip associated with it. Please check the link and try again.https://kick.com/channelName/clips/...https://www.twitch.tv/channelName/clip/...Understood&quot;) or . = concat(&quot;No Clip FoundThe link you entered is either invalid or we couldn&quot; , &quot;'&quot; , &quot;t find any valid clip associated with it. Please check the link and try again.https://kick.com/channelName/clips/...https://www.twitch.tv/channelName/clip/...Understood&quot;))]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='From Twitch'])[1]/following::div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>92cedcee-5d05-4e12-86eb-853622aa7554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXs MuiDialog-paperFullWidth css-si5qco</value>
+      <webElementGuid>44d81bef-e2be-426d-afc4-82061023cfe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>dialog</value>
+      <webElementGuid>ebfa551f-3fc2-4d06-b1ea-8508326db67e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>alert-dialog-description</value>
+      <webElementGuid>0e677c33-a299-4c9e-b87d-10fed962b0e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-labelledby</name>
+      <type>Main</type>
+      <value>alert-dialog-title</value>
+      <webElementGuid>c8913500-2724-456c-b4f3-8051c85ad80b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No Clip FoundThe link you entered is either invalid or we couldn't find any valid clip associated with it. Please check the link and try again.https://kick.com/channelName/clips/...https://www.twitch.tv/channelName/clip/...Understood</value>
+      <webElementGuid>3d8bd288-c718-4d25-82d7-854525f49508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-e3a0f3&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXs MuiDialog-paperFullWidth css-si5qco&quot;]</value>
+      <webElementGuid>2d35dc3c-e303-46e8-b59b-19179e0b2ad8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From Twitch'])[1]/following::div[6]</value>
+      <webElementGuid>8cdc2b6b-5463-496b-930e-9bfa78009b27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From Your Local'])[1]/following::div[8]</value>
+      <webElementGuid>7541a753-f3be-4cfb-8fb3-b6dbe28cfd10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>54aab9d7-a8d1-4c85-a94b-06f9cf7740d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;No Clip FoundThe link you entered is either invalid or we couldn&quot; , &quot;'&quot; , &quot;t find any valid clip associated with it. Please check the link and try again.https://kick.com/channelName/clips/...https://www.twitch.tv/channelName/clip/...Understood&quot;) or . = concat(&quot;No Clip FoundThe link you entered is either invalid or we couldn&quot; , &quot;'&quot; , &quot;t find any valid clip associated with it. Please check the link and try again.https://kick.com/channelName/clips/...https://www.twitch.tv/channelName/clip/...Understood&quot;))]</value>
+      <webElementGuid>bb6029e4-121b-4400-bf45-39292a4bccf2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

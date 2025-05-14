@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>EditedClip_Section</name>
+   <tag></tag>
+   <elementGuidId>c97707b9-3595-4581-b967-4ef85b3cd3e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.container-children-dashboard</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>22d27012-ea35-49e9-b9c3-dde94622d938</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container-children-dashboard  </value>
+      <webElementGuid>fb5051e4-7df6-457f-a9f3-da69c8c95a0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edited ClipsCreate MontageConvert to TikTok / Shorts / ReelsExtended / Trimmed ClipYour AI-edited clips are moved to the new page. Explore them there!AI Edited ClipsChoose your best edited videos and share with fansReady-made videos for social mediaSort bySort by:NEWEST TO OLDESTOLDEST TO NEWESTNEWEST TO OLDESTOLDEST TO NEWESTALLIN PROGRESSCONVERTEDALLIN PROGRESSCONVERTEDNo Edited Clip YetYou don’t have any edited clip right now. To have one, try to edit one of your available clip nowConvert to TikTok / Shorts / ReelsEnable desktop notifications for app.eklipse.ggOKNot Now</value>
+      <webElementGuid>d4deddf4-8ddf-45c2-bdc8-e46e284ae51d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]</value>
+      <webElementGuid>4acae00b-7cbd-44cf-a49d-f88175051d55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div</value>
+      <webElementGuid>ac95fc75-b77a-41f2-a044-61a1c9409903</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[3]/following::div[1]</value>
+      <webElementGuid>19f40b58-598e-48d2-9efd-da56c19e58ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[3]/following::div[2]</value>
+      <webElementGuid>1efd1172-3901-431d-b4a7-8d48d68c69e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div</value>
+      <webElementGuid>de5bd6ff-ad6e-4721-8286-ecb13d36d53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Edited ClipsCreate MontageConvert to TikTok / Shorts / ReelsExtended / Trimmed ClipYour AI-edited clips are moved to the new page. Explore them there!AI Edited ClipsChoose your best edited videos and share with fansReady-made videos for social mediaSort bySort by:NEWEST TO OLDESTOLDEST TO NEWESTNEWEST TO OLDESTOLDEST TO NEWESTALLIN PROGRESSCONVERTEDALLIN PROGRESSCONVERTEDNo Edited Clip YetYou don’t have any edited clip right now. To have one, try to edit one of your available clip nowConvert to TikTok / Shorts / ReelsEnable desktop notifications for app.eklipse.ggOKNot Now' or . = 'Edited ClipsCreate MontageConvert to TikTok / Shorts / ReelsExtended / Trimmed ClipYour AI-edited clips are moved to the new page. Explore them there!AI Edited ClipsChoose your best edited videos and share with fansReady-made videos for social mediaSort bySort by:NEWEST TO OLDESTOLDEST TO NEWESTNEWEST TO OLDESTOLDEST TO NEWESTALLIN PROGRESSCONVERTEDALLIN PROGRESSCONVERTEDNo Edited Clip YetYou don’t have any edited clip right now. To have one, try to edit one of your available clip nowConvert to TikTok / Shorts / ReelsEnable desktop notifications for app.eklipse.ggOKNot Now')]</value>
+      <webElementGuid>20d28f75-d6ce-48d5-9fda-7b32422bedb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

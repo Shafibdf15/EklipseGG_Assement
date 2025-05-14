@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Profile_Setting</name>
+   <tag></tag>
+   <elementGuidId>5d7eafd0-f8a5-48ae-9fd9-39e3f29225a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ek-personal-detail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dea45031-daa8-499c-9d02-abcaa73f308f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ek-personal-detail</value>
+      <webElementGuid>7f128327-d610-407c-93d1-1c6ee4ac3c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Profile settingsNameEmailSave ChangesPasswordPasswordChange PasswordAccount RemovalDelete your account means you can't recover it at any time after taking this actionDelete Account</value>
+      <webElementGuid>67596b03-d145-4747-8ec7-97825c6f421e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-account-setting&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs&quot;]/div[@class=&quot;ek-personal-detail&quot;]</value>
+      <webElementGuid>e37b1b7b-b1ec-4fb3-887e-92a88ee51d9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div/div[3]</value>
+      <webElementGuid>5fb301ab-fac7-46e5-b119-e12a6326159b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Server'])[1]/following::div[1]</value>
+      <webElementGuid>3b546e56-e91b-4340-94fc-c263ff8b9b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect a Discord Server to auto-share your latest posts with your community'])[1]/following::div[2]</value>
+      <webElementGuid>dd2af17f-5de6-4014-81ad-e1bd9f4ff1d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[3]</value>
+      <webElementGuid>7beb6a5e-7d0b-4d3c-bc51-f55e5961e5c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Profile settingsNameEmailSave ChangesPasswordPasswordChange PasswordAccount RemovalDelete your account means you can&quot; , &quot;'&quot; , &quot;t recover it at any time after taking this actionDelete Account&quot;) or . = concat(&quot;Profile settingsNameEmailSave ChangesPasswordPasswordChange PasswordAccount RemovalDelete your account means you can&quot; , &quot;'&quot; , &quot;t recover it at any time after taking this actionDelete Account&quot;))]</value>
+      <webElementGuid>d5260432-848a-4b63-898d-46ae1d7e6aa7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

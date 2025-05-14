@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edited Clips</name>
+   <tag></tag>
+   <elementGuidId>e53d6c00-c2b7-4677-81f1-b1a722ba21fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.edited-by-you-menu > a.sidebar-submenu-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='submenu-2']/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee5f2001-497f-4ee0-919b-2475c17ef8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-submenu-link</value>
+      <webElementGuid>ee898085-0043-4909-aaf8-5ab415ee489f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/edited-clip/edited-by-you</value>
+      <webElementGuid>7f0cc4fa-5fa5-41d0-a46b-cba99384624f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edited Clips</value>
+      <webElementGuid>e5af22d3-4951-46b8-a910-f7233b5f8ea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submenu-2&quot;)/ul[1]/li[@class=&quot;edited-by-you-menu&quot;]/a[@class=&quot;sidebar-submenu-link&quot;]</value>
+      <webElementGuid>403277b9-d074-4b16-bb75-53f2f9a0f7a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='submenu-2']/ul/li[2]/a</value>
+      <webElementGuid>3cffdfb6-f2fe-4880-84eb-06649394543a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[2]/following::a[1]</value>
+      <webElementGuid>ee35a49b-d1d2-4b10-b14e-4b780b8e93fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AI Edit'])[1]/following::a[1]</value>
+      <webElementGuid>d8e383da-421d-44ac-8566-b4ed0db1d06d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Montages'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba633751-cbb5-47c9-bbe4-0cf9b1deb5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/edited-clip/edited-by-you')]</value>
+      <webElementGuid>f6c78999-62b4-4373-a41e-c7b600d9c23c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/ul/li[2]/a</value>
+      <webElementGuid>fa67790b-be34-4d70-bcda-1fca6a8ca2c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/edited-clip/edited-by-you' and (text() = 'Edited Clips' or . = 'Edited Clips')]</value>
+      <webElementGuid>149c90a6-e616-498a-8920-fa9e4c4f0175</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

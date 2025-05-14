@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Start AI Edit_1</name>
+   <tag></tag>
+   <elementGuidId>0bbab144-c4b9-4cd6-929c-281f78f8b0b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[35]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ek-primary-button.mb-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>08f4d146-bffe-4c8b-9792-e0f74c4317a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ek-primary-button mb-4</value>
+      <webElementGuid>66b87b3d-f217-4db7-835a-6fb32f119733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cbdea235-8b7c-4fef-a25f-b76ce671134e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start AI Edit</value>
+      <webElementGuid>31f6cf3c-cbf5-4830-853d-20a8c2f7bb9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-streams ek-ai-edit&quot;]/div[2]/div[1]/div[@class=&quot;content&quot;]/div[@class=&quot;empty-clip-container&quot;]/div[@class=&quot;empty-clip-upper d-flex flex-column justify-content-center align-items-center p-4 mb-3 mt-2&quot;]/button[@class=&quot;ek-primary-button mb-4&quot;]</value>
+      <webElementGuid>eea63425-2af7-466f-99d4-bde4828cf58b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[35]</value>
+      <webElementGuid>ac9d3cdc-9089-4172-9d7a-965991e62e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>47cfb38e-b62b-4036-87cc-e2baf1cec4b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beta'])[3]/following::button[1]</value>
+      <webElementGuid>8a537419-138e-48cf-9188-1097a7789de1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort by:'])[1]/following::button[1]</value>
+      <webElementGuid>8b4df806-5061-479d-a59d-0064391fc3e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Player is loading.'])[1]/preceding::button[1]</value>
+      <webElementGuid>0d8a46f4-4b9b-4e07-917b-fee43f523dde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>89245d79-bb0e-4aeb-a3c9-cde25b397a9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Start AI Edit' or . = 'Start AI Edit')]</value>
+      <webElementGuid>9528c2b0-9866-4b8a-91ce-6b7e85681741</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>StreamDashboard</name>
+   <tag></tag>
+   <elementGuidId>c590b724-2112-4df9-a319-ddc5378076cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ek-content-bar</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>131b6602-3cd2-493f-ba0d-cdb9c3812c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ek-content-bar</value>
+      <webElementGuid>a519f4b3-5ff7-412b-91dc-98e37b57871e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gaming VideoTalking VideoAll StreamsProcessedIn ProgressUnclippedDidn’t see your stream?RefreshGenerate Stream HighlightsTry with your VOD link: 3 trial availableImportSelect...Connect for the Ultimate ExperienceFind your vods right after you're done streamingGet instant highlights with auto-processingORGenerate from External SourceEnter a stream URLUpload TikTok LiveUpload from local files</value>
+      <webElementGuid>48dd8b94-24b0-4788-a382-ed9f779d8ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-streams ek-streams-page&quot;]/div[@class=&quot;ek-widget-wrapper d-flex mt-4&quot;]/div[@class=&quot;ek-content-bar&quot;]</value>
+      <webElementGuid>65134915-1990-4bca-9983-72ed1e26ecc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div[2]/div</value>
+      <webElementGuid>b9b8e739-4409-4436-9b87-81e932f1db43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playlist'])[2]/following::div[2]</value>
+      <webElementGuid>cea16ecf-54ed-4d7d-bc49-1da900e32f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse'])[1]/following::div[2]</value>
+      <webElementGuid>2f36e7ea-2fef-4999-8c1a-8ed1d65e4ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div[2]/div</value>
+      <webElementGuid>1dc8b448-e4c6-44d2-95a0-4af1338ffc5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Gaming VideoTalking VideoAll StreamsProcessedIn ProgressUnclippedDidn’t see your stream?RefreshGenerate Stream HighlightsTry with your VOD link: 3 trial availableImportSelect...Connect for the Ultimate ExperienceFind your vods right after you&quot; , &quot;'&quot; , &quot;re done streamingGet instant highlights with auto-processingORGenerate from External SourceEnter a stream URLUpload TikTok LiveUpload from local files&quot;) or . = concat(&quot;Gaming VideoTalking VideoAll StreamsProcessedIn ProgressUnclippedDidn’t see your stream?RefreshGenerate Stream HighlightsTry with your VOD link: 3 trial availableImportSelect...Connect for the Ultimate ExperienceFind your vods right after you&quot; , &quot;'&quot; , &quot;re done streamingGet instant highlights with auto-processingORGenerate from External SourceEnter a stream URLUpload TikTok LiveUpload from local files&quot;))]</value>
+      <webElementGuid>0b3272da-8248-4b66-815e-196b24ed2526</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

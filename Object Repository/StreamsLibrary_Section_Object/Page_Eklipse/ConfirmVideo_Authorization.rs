@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ConfirmVideo_Authorization</name>
+   <tag></tag>
+   <elementGuidId>7dbf2b54-ecda-4d74-abd4-8f4588ff7ca1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ek-custom-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>af6d002f-94f5-4099-a7aa-e122be05933e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ek-custom-checkbox</value>
+      <webElementGuid>80bb8d1a-663d-47d6-8168-4dc21dbe850a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;focus-outline-hidden&quot;]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade ek-get-stream-modal w-900 modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;get-stream-modal-container&quot;]/div[@class=&quot;add-google-drive-stream-section upload-vod-section&quot;]/div[@class=&quot;content-right&quot;]/form[1]/div[@class=&quot;mb-3 form-group&quot;]/div[@class=&quot;d-flex gap-1&quot;]/label[@class=&quot;ek-checkbox-label&quot;]/span[@class=&quot;ek-custom-checkbox&quot;]</value>
+      <webElementGuid>4bfe1a3d-3c8d-477c-831b-f298f6b762a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>25f212b2-ab1a-480a-8135-9fb035265985</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

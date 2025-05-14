@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select regionAmericasAsiaEsportEurope</name>
+   <tag></tag>
+   <elementGuidId>bb7d7191-3433-48be-ad81-4e90582f5f12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-dkrFOg.bpDwEs > div.ek-game-setting-detail > div.form-input-detail > div.form-input-detail-row.end > #inputGameSettingsRegion</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='inputGameSettingsRegion'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2d99ee60-6263-49cc-b775-413161fdf19c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>inputGameSettingsRegion</value>
+      <webElementGuid>cadd171f-700b-4509-bc67-6c537fc8866d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>region</value>
+      <webElementGuid>b9d9ad67-1078-4dc1-8245-597f88d54ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select regionAmericasAsiaEsportEurope</value>
+      <webElementGuid>9fd4f5c2-6367-4d0a-8c16-fabe68f9e0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-account-setting&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs&quot;]/div[@class=&quot;ek-game-setting&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs&quot;]/div[@class=&quot;ek-game-setting-detail&quot;]/div[@class=&quot;form-input-detail&quot;]/div[@class=&quot;form-input-detail-row end&quot;]/select[@id=&quot;inputGameSettingsRegion&quot;]</value>
+      <webElementGuid>7dd24c3f-6fc7-40ea-9362-0a51c5c81417</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='inputGameSettingsRegion'])[2]</value>
+      <webElementGuid>9fc237f2-920e-4603-91a7-102e3351d818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div[4]/div/div[2]/div/div/div[3]/select</value>
+      <webElementGuid>c38443f6-37d0-40d2-b234-91102e41c937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose the region of your country'])[2]/following::select[1]</value>
+      <webElementGuid>e70b5d12-d449-4cef-ac53-737b51118771</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fill in with your tagline'])[1]/following::select[1]</value>
+      <webElementGuid>f4211187-e13c-4011-871d-818a7c7c36d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/preceding::select[1]</value>
+      <webElementGuid>49398dee-e1f9-414d-ade7-df69f881579a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/preceding::select[1]</value>
+      <webElementGuid>e0f5de75-2011-4a5a-a448-d7103b869e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/select</value>
+      <webElementGuid>49daffed-aa78-46e3-a25d-13ab4fd57b2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'inputGameSettingsRegion' and @name = 'region' and (text() = 'Select regionAmericasAsiaEsportEurope' or . = 'Select regionAmericasAsiaEsportEurope')]</value>
+      <webElementGuid>2544f18e-aa7f-48df-8a8e-f824e4c8aa73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

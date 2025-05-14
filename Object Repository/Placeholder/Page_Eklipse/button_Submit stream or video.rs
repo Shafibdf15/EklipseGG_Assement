@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Submit stream or video</name>
+   <tag></tag>
+   <elementGuidId>870caa55-d198-4716-aef9-7750f494df43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[142]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.empty-state__button.ek-primary-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c175251e-cb91-4473-9d09-740b12f7a24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>92324c6b-c5ef-4bf3-abc0-0f32eaa0c0fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>empty-state__button ek-primary-button</value>
+      <webElementGuid>8fcb1567-fdc6-40b2-bf87-1975739b6f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit stream or video</value>
+      <webElementGuid>77453ca8-2851-4755-a488-2c74f3f35323</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ai-edit-modal&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;sc-dkrFOg bpDwEs select-clip-tab&quot;]/div[1]/div[@class=&quot;ek-NewProject&quot;]/div[@class=&quot;text-center empty-state&quot;]/button[@class=&quot;empty-state__button ek-primary-button&quot;]</value>
+      <webElementGuid>f62d9042-64d9-465c-b5f6-113147f73411</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[142]</value>
+      <webElementGuid>c981d735-8e44-495e-b2b8-064abb945780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ai-edit-modal']/div/div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>dbc80a4b-30ef-45a1-8039-8f6bf93f7b2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Highlights Found'])[1]/following::button[1]</value>
+      <webElementGuid>4578165e-7dca-4731-8d2a-97fe42cf1c16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/preceding::button[1]</value>
+      <webElementGuid>fd379803-ba54-44d3-a7e6-c74f035c982e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit stream or video']/parent::*</value>
+      <webElementGuid>e1cd4e11-91e9-452e-878c-0b9bbe3222bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/button</value>
+      <webElementGuid>f14768f0-3ef2-4839-b34c-8dad99ae6e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Submit stream or video' or . = 'Submit stream or video')]</value>
+      <webElementGuid>e400a08c-fdb2-49da-bf18-5e6af5209935</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

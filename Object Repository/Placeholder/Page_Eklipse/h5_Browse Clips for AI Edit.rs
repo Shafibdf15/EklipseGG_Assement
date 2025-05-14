@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Browse Clips for AI Edit</name>
+   <tag></tag>
+   <elementGuidId>5f2d3338-8262-4580-a18a-4f00a31da944</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ai-edit-modal']/div/div/div/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.modal-choice-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>592c9e4c-a854-45b0-aa64-12ad88e639b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-choice-title</value>
+      <webElementGuid>3f8e7502-35b7-4ddb-a1f8-1dfcfc88c897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Browse Clips for AI Edit</value>
+      <webElementGuid>bde9793e-17b2-45d5-8a5a-261d5e7e2e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ai-edit-modal&quot;)/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header&quot;]/div[@class=&quot;modal-choice-header&quot;]/h5[@class=&quot;modal-choice-title&quot;]</value>
+      <webElementGuid>7789758b-f3d9-4597-8f86-d717d18e6559</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ai-edit-modal']/div/div/div/h5</value>
+      <webElementGuid>c2f245a3-821d-4b43-aade-b739b52c51ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get AI Edit'])[1]/following::h5[1]</value>
+      <webElementGuid>1fe7ec1c-5180-47b1-82e6-94e3971febfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::h5[1]</value>
+      <webElementGuid>40ad7cdc-4bc5-436e-b68c-cef8f6fa774c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Highlights'])[1]/preceding::h5[1]</value>
+      <webElementGuid>afc4f9b0-840f-4872-b0cb-1b6f8886be98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stream Videos'])[1]/preceding::h5[1]</value>
+      <webElementGuid>7e75779f-2451-4d01-b519-d70fb544fdc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse Clips for AI Edit']/parent::*</value>
+      <webElementGuid>00e46f1e-dc80-492e-bfc3-8f22ef1d08d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>56d1b6ba-41d2-4b42-af4b-7483c06d7069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Browse Clips for AI Edit' or . = 'Browse Clips for AI Edit')]</value>
+      <webElementGuid>166cce83-59ea-41a5-9f07-a8bfb5f10e00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

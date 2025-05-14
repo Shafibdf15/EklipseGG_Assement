@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LocalUpload_Object</name>
+   <tag></tag>
+   <elementGuidId>357babd7-3de8-4781-bceb-39193335153b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Start AI Edit by selecting from your AI-Highlights library.'])[1]/following::div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82963503-ebce-4942-a183-45d653e4bdd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action</value>
+      <webElementGuid>7d489f39-a215-4083-adfe-3334b6933068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Local UploadUpload video from your device </value>
+      <webElementGuid>2279009a-15cf-4cbe-acbb-33f0f67ef778</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;focus-outline-hidden&quot;]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade ai-edit-modal-container current-step-2 modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;ai-edit-modal-container&quot;]/div[1]/div[@class=&quot;choose-ai-edit-panel&quot;]/div[2]/div[@class=&quot;list-actions&quot;]/div[@class=&quot;action&quot;]</value>
+      <webElementGuid>5b1d81f2-e87c-486f-88ff-27a8f47d4219</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start AI Edit by selecting from your AI-Highlights library.'])[1]/following::div[2]</value>
+      <webElementGuid>ed58d34b-4e9f-480b-ac31-908a6b1398fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse Clip Library'])[1]/following::div[3]</value>
+      <webElementGuid>e31d58e0-b4db-4254-a439-6e4575d304ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[2]</value>
+      <webElementGuid>8033a131-16b5-4f3c-a057-b52ee360f11f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Local UploadUpload video from your device ' or . = 'Local UploadUpload video from your device ')]</value>
+      <webElementGuid>20a44256-a61d-49a4-a81b-d6f71eb78b1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

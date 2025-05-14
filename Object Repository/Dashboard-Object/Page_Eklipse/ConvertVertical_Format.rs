@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ConvertVertical_Format</name>
+   <tag></tag>
+   <elementGuidId>06e9a050-628c-4378-85c5-fbfb06e9fd8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.entry-point-item.convert-tiktok-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7326aade-116f-4e44-9b6b-501015789018</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entry-point-item convert-tiktok-item</value>
+      <webElementGuid>47ef68d3-a802-4176-95af-b7555e26380d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3b4a6ad6-64e2-4370-b6e6-eb7f14ad758a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ad91ab05-4a59-4760-994b-328560db19d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Convert to Vertical - Turn your videos into TikTok format</value>
+      <webElementGuid>a2c307cc-3ea6-404d-9f72-9174386e8095</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Convert to VerticalTurn your videos into TikTok format</value>
+      <webElementGuid>3b11a134-14a0-499b-bb1b-274bc6bae633</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard p-0&quot;]/div[@class=&quot;ek-widget-wrapper d-flex&quot;]/div[@class=&quot;ek-dashboard__home ek-content-bar&quot;]/div[@class=&quot;entry-point-panel mt-2 mb-4 pb-2&quot;]/div[@class=&quot;entry-point-item convert-tiktok-item&quot;]</value>
+      <webElementGuid>09a0e5c2-3cd7-404d-a95b-7af812951646</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div/div/div[3]</value>
+      <webElementGuid>c01d60a1-7897-4795-a10f-7f4610813e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beta'])[3]/following::div[1]</value>
+      <webElementGuid>6472ef44-4da4-4207-b78b-cc2ce80bafae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Share'])[1]/preceding::div[4]</value>
+      <webElementGuid>774461af-ca29-4152-8a4d-ba2a23eb126c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[3]</value>
+      <webElementGuid>d30a7b9c-092e-4b0c-bb41-6d4b610c7c7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Convert to VerticalTurn your videos into TikTok format' or . = 'Convert to VerticalTurn your videos into TikTok format')]</value>
+      <webElementGuid>cb9b9579-1de7-4767-8c68-882c5b126925</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

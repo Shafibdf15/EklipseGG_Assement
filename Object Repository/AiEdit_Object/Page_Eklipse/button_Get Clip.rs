@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get Clip</name>
+   <tag></tag>
+   <elementGuidId>8f176ca7-ba06-45cc-a07e-7028258bf414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.video-input-container.d-flex.justify-content-center.align-items-center.my-2.w-100.w-md-75 > button.btn-get-video-info</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>027d8054-ef67-413b-b1b5-63bb0110ba53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>8d039a2e-bbab-4e33-a4c2-90cb9b972c7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-get-video-info</value>
+      <webElementGuid>ec57f73b-949e-4a19-96ab-f2336417387b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Clip</value>
+      <webElementGuid>63083881-4792-4b94-ac9d-4d2aae1288ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;focus-outline-hidden&quot;]/body[@class=&quot;modal-open&quot;]/div[@class=&quot;fade ai-edit-modal-container current-step-2 modal show&quot;]/div[@class=&quot;modal-dialog modal-dialog-centered&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-body&quot;]/div[@class=&quot;ai-edit-modal-container&quot;]/div[1]/div[@class=&quot;choose-ai-edit-panel&quot;]/div[2]/div[1]/div[@class=&quot;video-input-container d-flex justify-content-center align-items-center my-2 w-100 w-md-75&quot;]/button[@class=&quot;btn-get-video-info&quot;]</value>
+      <webElementGuid>ece5e437-aa95-417b-afb0-24cb63fda9a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[2]</value>
+      <webElementGuid>4c9b071c-4d4e-4fdd-9d51-47374665b7a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Method'])[1]/following::button[1]</value>
+      <webElementGuid>74b0f76f-a2cb-4e3b-918a-ff44d2d123dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import'])[2]/following::button[1]</value>
+      <webElementGuid>497b9032-775d-4e05-a0b5-ac83cfa35b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse Clip Library'])[1]/preceding::button[1]</value>
+      <webElementGuid>962ba1cf-ff2c-42c2-b04a-a9875d4947f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start AI Edit by selecting from your AI-Highlights library.'])[1]/preceding::button[1]</value>
+      <webElementGuid>7a25ec26-e677-4e6a-bf21-78a6d7216900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Clip']/parent::*</value>
+      <webElementGuid>3987fa2c-4b93-429b-97d0-980e4a202cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/button</value>
+      <webElementGuid>87adfef2-48e6-458f-a7b9-6ee6a98b3216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Get Clip' or . = 'Get Clip')]</value>
+      <webElementGuid>b34f785a-370d-41da-ac6f-b9c4f36a0206</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

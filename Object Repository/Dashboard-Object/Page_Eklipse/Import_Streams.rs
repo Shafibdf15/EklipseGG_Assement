@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Import_Streams</name>
+   <tag></tag>
+   <elementGuidId>7747b2bf-bb36-4582-94b3-699f58f9e83b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.entry-point-item.import-stream-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25dd5d5c-2e1e-48f4-a2c1-899a8314783c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entry-point-item import-stream-item</value>
+      <webElementGuid>55bae18e-f5a5-4333-9742-1d30a8914acc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5b46282d-5073-44b8-bad2-e57e8dcad73c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>a40bd665-eda8-4594-83ef-2a54f1d5a858</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Import Streams - Add new Twitch, Tiktok, YT or Kick!</value>
+      <webElementGuid>760a9b44-9b09-4f75-8454-ddc52520842a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Import StreamsAdd new Twitch, Tiktok, YT or Kick!</value>
+      <webElementGuid>2cc4ad2e-dce7-4701-9a62-1b1d78841c04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard p-0&quot;]/div[@class=&quot;ek-widget-wrapper d-flex&quot;]/div[@class=&quot;ek-dashboard__home ek-content-bar&quot;]/div[@class=&quot;entry-point-panel mt-2 mb-4 pb-2&quot;]/div[@class=&quot;entry-point-item import-stream-item&quot;]</value>
+      <webElementGuid>26fe475c-8162-4ece-be4b-aa75dab781ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>6ae2dabd-b7f5-49c1-bf64-9e85f78e69a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[3]/following::div[5]</value>
+      <webElementGuid>c90521ca-0243-4286-98c4-5232264af3cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[3]/following::div[6]</value>
+      <webElementGuid>42ed40ca-58c6-417d-9fca-65c48ce2ec4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>4c644981-1e92-4ebe-a629-dc6863079725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Import StreamsAdd new Twitch, Tiktok, YT or Kick!' or . = 'Import StreamsAdd new Twitch, Tiktok, YT or Kick!')]</value>
+      <webElementGuid>0b8abdec-3a76-451c-bb41-85166b30f592</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

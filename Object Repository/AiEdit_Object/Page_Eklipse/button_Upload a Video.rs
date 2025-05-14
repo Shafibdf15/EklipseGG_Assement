@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload a Video</name>
+   <tag></tag>
+   <elementGuidId>d4820b4d-d0c9-417c-9a4b-ce312172993b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='upload-from-local-wrapper']/div[3]/div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-xs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>99943c52-c0f6-4593-9030-d7eba6769a7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-xs</value>
+      <webElementGuid>35321955-a720-4e58-aecb-fa4febcaaa98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload a Video</value>
+      <webElementGuid>1dd22eed-92cc-4732-8175-75244b31c688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;upload-from-local-wrapper&quot;)/div[@class=&quot;upload-panel&quot;]/div[@class=&quot;mt-3 text-center&quot;]/button[@class=&quot;btn btn-primary btn-xs&quot;]</value>
+      <webElementGuid>eefee05a-ed6d-4ca3-8784-539a0b4b8bdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='upload-from-local-wrapper']/div[3]/div[3]/button</value>
+      <webElementGuid>dd8a906e-e8d1-4276-a857-8dd6851e16bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ensure that your video is in .mp4 format and does not exceed 250MB in size'])[1]/following::button[1]</value>
+      <webElementGuid>c3f8fc95-eaec-4ceb-8201-033e4b4c6540</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Your Video from your Computer'])[1]/following::button[1]</value>
+      <webElementGuid>dc080808-aa35-45a7-95ba-22bae8c45ee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm'])[1]/preceding::button[1]</value>
+      <webElementGuid>efa420b3-385b-4f12-a755-35690bcd2a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div[3]/button</value>
+      <webElementGuid>c09b359a-5fa3-4677-85bd-fb320713f8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Upload a Video' or . = 'Upload a Video')]</value>
+      <webElementGuid>3ea0f7f5-94a4-463d-9dd1-056868088f64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_All Highlights</name>
+   <tag></tag>
+   <elementGuidId>acfbd253-18a0-4735-aa39-eb11216a8191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>da1a174b-adf9-4d8b-b903-2f4f5d0c95e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5b89b5c1-2336-4eec-a14e-a5e5c2338964</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-gswNZR bbLVwL tab-title active</value>
+      <webElementGuid>367c2cd8-f231-4e67-ae50-77a819c97e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Highlights</value>
+      <webElementGuid>7a76fde1-8cbc-4edb-add2-9d385b887fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;0&quot;)</value>
+      <webElementGuid>2f876813-e5ca-42e6-bfb4-63478f54af49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='0']</value>
+      <webElementGuid>d008928c-d6ef-4efb-bae8-cd718b17a096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ai-edit-modal']/div/div[2]/ul/li</value>
+      <webElementGuid>871e3b2c-069b-4b25-9356-eb78ce68d6d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Browse Clips for AI Edit'])[1]/following::li[1]</value>
+      <webElementGuid>e6dd8871-a21c-41af-a4d8-bf24c280d233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get AI Edit'])[1]/following::li[1]</value>
+      <webElementGuid>d0838505-8e3d-40f6-b769-b377a786496b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stream Videos'])[1]/preceding::li[1]</value>
+      <webElementGuid>aff43ba5-b925-42c9-a029-5926d93e776f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload'])[1]/preceding::li[2]</value>
+      <webElementGuid>1cff0967-33f1-48d1-98b6-19aa23b5edbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Highlights']/parent::*</value>
+      <webElementGuid>1960687f-3b5d-460e-b6ef-a52700807c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li</value>
+      <webElementGuid>05fb5899-70ff-4c36-80ae-5ebce09ddcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = '0' and (text() = 'All Highlights' or . = 'All Highlights')]</value>
+      <webElementGuid>bc4e0bc2-0377-49d5-8226-1ad3397a16d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

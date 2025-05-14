@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Clip Library</name>
+   <tag></tag>
+   <elementGuidId>fc90b6a2-a6fd-466a-9806-4458b5332d0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sidebar-item.sidebar-item__dropdown.opened.false.video-library-menu > a.sidebar-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mySidebar']/div[2]/nav/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9773efb2-907f-4f52-9f3b-0f94903f046d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sidebar-link</value>
+      <webElementGuid>4b558d54-b3f9-4768-973f-c2c110b2eca8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/video-library/streams</value>
+      <webElementGuid>0c306b14-05fb-4ede-9e06-8af126bd4690</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clip Library</value>
+      <webElementGuid>4a5ab9b6-917c-4833-9a63-b2488a92fb52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mySidebar&quot;)/div[@class=&quot;menu-box-content&quot;]/nav[@class=&quot;navbar&quot;]/ul[@class=&quot;sidebar-menu&quot;]/li[@class=&quot;sidebar-item sidebar-item__dropdown opened  false video-library-menu&quot;]/a[@class=&quot;sidebar-link&quot;]</value>
+      <webElementGuid>1644a38b-d9a6-4467-bced-ed02a73a142f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mySidebar']/div[2]/nav/ul/li[5]/a</value>
+      <webElementGuid>d72a7b46-7d51-4da8-88d2-18b24a4a6496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>6798a29e-243a-4e37-80ce-0eb2457d393c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade to Teams'])[1]/following::a[2]</value>
+      <webElementGuid>3e6679eb-c53d-40b3-a0ed-62f56e6046fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stream/Video'])[1]/preceding::a[1]</value>
+      <webElementGuid>eb8823fd-781a-4d9c-a3db-235b7d9fb66d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/video-library/streams')]</value>
+      <webElementGuid>64e8666a-b4fd-4294-a7a0-9dbf910e5749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>daddd77f-eaae-4120-9810-00a37a4f74d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/video-library/streams' and (text() = 'Clip Library' or . = 'Clip Library')]</value>
+      <webElementGuid>213107fe-9f87-49c4-8655-3eea3f230872</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

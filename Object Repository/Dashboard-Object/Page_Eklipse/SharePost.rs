@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SharePost</name>
+   <tag></tag>
+   <elementGuidId>00d54b7e-1de2-44ea-893b-b6162bf0cb05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.entry-point-item.share-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dashboard']/div[3]/div/div/div/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a3ca0f9-c1ba-4c79-857c-f402b6bf8d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entry-point-item share-item</value>
+      <webElementGuid>cdca8485-6f85-460c-a17e-49352950acd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>90f75ec8-eebb-4515-b115-03a0ba053004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>4ebb3353-4ea1-42f4-a471-4c6851a06511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Share - Post and Schedule your clips</value>
+      <webElementGuid>2a144347-9649-46cf-837c-d3e529b4a088</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SharePost and Schedule your clips</value>
+      <webElementGuid>1ff056b6-d1a4-4470-9721-e4691bfb08b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard p-0&quot;]/div[@class=&quot;ek-widget-wrapper d-flex&quot;]/div[@class=&quot;ek-dashboard__home ek-content-bar&quot;]/div[@class=&quot;entry-point-panel mt-2 mb-4 pb-2&quot;]/div[@class=&quot;entry-point-item share-item&quot;]</value>
+      <webElementGuid>badf70bc-7003-4954-b502-cfd3d2d1f3ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div/div/div[4]</value>
+      <webElementGuid>56f47504-febf-405c-a894-635b2280e44c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Convert to Vertical'])[1]/following::div[1]</value>
+      <webElementGuid>d6bdb555-aa88-46ab-93c2-25f6c505a83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beta'])[3]/following::div[4]</value>
+      <webElementGuid>e17a3ae4-3b7d-42b9-95d6-ca169757bba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private Stream'])[2]/preceding::div[4]</value>
+      <webElementGuid>587f167d-26bc-4970-94ec-c512dc6c0b48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[4]</value>
+      <webElementGuid>da7c31dc-b2ef-471f-881f-ef2a9ed16eea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SharePost and Schedule your clips' or . = 'SharePost and Schedule your clips')]</value>
+      <webElementGuid>9cf645b9-7f91-48c9-9f2d-5cf13a164bcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

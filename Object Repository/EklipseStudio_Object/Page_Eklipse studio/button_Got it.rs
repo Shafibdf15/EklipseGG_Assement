@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Got it</name>
+   <tag></tag>
+   <elementGuidId>94779ca0-3209-4e47-915c-234f8a37e809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[83]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a694477d-1dd1-486e-8399-01199b1b41b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedEklipse MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorEklipse MuiButton-root MuiButton-contained MuiButton-containedEklipse MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorEklipse css-1rt7tlg</value>
+      <webElementGuid>a3ddf46b-be23-4663-954d-70cff740246e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>9ff48b75-1e4d-4131-9032-54d1c7fd6575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e61670d7-72d0-456c-bfe2-fcb85f0501a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Got it!</value>
+      <webElementGuid>c5ce13ec-6c22-450f-9b46-3edca12a54e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiDialog-root MuiModal-root css-134ogvd&quot;]/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-16u656j&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthXs css-h3fct8&quot;]/div[@class=&quot;MuiDialogActions-root MuiDialogActions-spacing css-mem132&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedEklipse MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorEklipse MuiButton-root MuiButton-contained MuiButton-containedEklipse MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorEklipse css-1rt7tlg&quot;]</value>
+      <webElementGuid>cbc0e6ae-9149-46d3-b41c-de87547c8f20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[83]</value>
+      <webElementGuid>a627d0e0-cc1f-47b6-846a-f23ec5830f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save template'])[2]/following::button[1]</value>
+      <webElementGuid>3c1c7a90-604b-4c5f-a7b1-3534015f3f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you'])[2]/following::button[1]</value>
+      <webElementGuid>c5e3fdd3-a542-4a08-bae9-c6caaa04aa69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div[2]/button</value>
+      <webElementGuid>78f4b76f-9176-4f1e-9858-17134c47f8ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Got it!' or . = 'Got it!')]</value>
+      <webElementGuid>94c95c5b-d98f-436c-822d-446fc14198b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
